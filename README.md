@@ -1,2 +1,2 @@
 a simple html-based website about recipes.
-the basics of html will be used, including : elements, tags and comments.
+the basics of html will be used, including : various elements (paragraphs, headers, lists, etc..) and various tags.
