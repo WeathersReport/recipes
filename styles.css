@@ -7,10 +7,15 @@
 }
 .pages
 {
-    color:#79acfe;
     font-size:25px;
     margin-bottom:50px;
     margin-right:30px;
     text-align:center;
     list-style-type:none;
 }
+a.link
+{
+    color:aquamarine;
+    text-decoration:none;
+}
+
