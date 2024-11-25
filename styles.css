@@ -13,9 +13,14 @@
     text-align:center;
     list-style-type:none;
 }
-a.link
+a:link
 {
     color:aquamarine;
+    text-decoration:none;
+}
+a:visited
+{
+    color:rgb(40, 88, 72);
     text-decoration:none;
 }
 
