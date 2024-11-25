@@ -6,7 +6,9 @@
 }
 .pages
 {
+    color:#79acfe;
     font-size:25px;
-    margin-bottom:20px;
+    margin-bottom:50px;
     text-align:center;
+    list-style-type:none;
 }
