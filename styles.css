@@ -8,6 +8,12 @@ h1
     color:#610808;
     font-family:"Times New Roman", serif;
     font-weight:bold;
+    font-size:50px;
+}
+
+h2
+{
+    font-size:35px;
 }
 
 ul
@@ -19,6 +25,10 @@ ul
 ol, ul
 {
     font-size:25px;
+}
+ol
+{
+    list-style-position:inside;
 }
 a:link
 {
