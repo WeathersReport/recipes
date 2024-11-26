@@ -9,7 +9,7 @@
     font-family:"Times New Roman", serif;
     font-weight:bold;
 }
-.pages
+ul, ol
 {
     font-size:25px;
     margin-bottom:50px;
