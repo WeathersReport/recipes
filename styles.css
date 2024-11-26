@@ -3,12 +3,13 @@
     text-align:center;
 }
 
-.title
+h1
 {
     color:#610808;
     font-family:"Times New Roman", serif;
     font-weight:bold;
 }
+
 ul
 {
     margin-bottom:50px;
