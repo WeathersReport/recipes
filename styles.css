@@ -45,4 +45,13 @@ body
 {
     background-color:#fffedd;
 }
+li
+{
+    margin:40px;
+}
+img
+{
+    
+    border: 10px dashed rgb(63, 5, 5);
+}
 
