@@ -15,6 +15,8 @@ h1
 h2
 {
     font-size:35px;
+    color:#FFFDAA;
+    background-color:#AAACFF;
 }
 
 ul
@@ -26,6 +28,8 @@ ul
 ol, ul, p
 {
     font-size:25px;
+    font-family:sans-serif;
+    border-right:2px none black;
 }
 ol
 {
